@@ -5,7 +5,7 @@ CDN 加速器
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径    
 
 比如：     
-//加载图片  https://cdn.jsdelivr.net/gh/Yuxushen/CDN/img/avatar.jpg
+//加载图片  https://cdn.jsdelivr.net/gh/dalytop/CDN/blog/EventSystem.jpg
 
 注意：版本号不是必需的，是为了区分新旧资源，如果不使用版本号，将会直接引用最新资源，除此之外还可以使用某个范围内的版本，查看所有资源等，具体使用方法如下：
 
